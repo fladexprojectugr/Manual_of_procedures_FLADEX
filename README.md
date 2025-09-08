@@ -11,19 +11,35 @@ The objective of publishing the flADex manuals of procedures is to enhance the v
 
 RESEARCHERS:
 	•	Irene Esteban Cornejo – Principal Investigator of the project (ireneesteban@ugr.es)
+ 
 	•	Isabel Martín Fuentes – Project coordinator (isamartinf@ugr.es)
+ 
 	•	Patricio Solís Urra – Postdoctoral researcher (patricio.SolisUrra@adventhealth.com)
+ 
 	•	Beatriz Fernández Gámez – Predoctoral researcher (beatrizfg@ugr.es)
+ 
 	•	José Ángel Toval Sánchez – Postdoctoral researcher (joseangel.toval@um.es)
+ 
 	•	Alfredo Caro Rus – Researcher (acarorus@gmail.com)
+ 
 	•	Andrea Coca Pulido – Predoctoral researcher (acocapulido@ugr.es)
+ 
 	•	Marcos Olvera Rojas – Predoctoral researcher (olvera@ugr.es)
+ 
 	•	Javier André Sánchez Martínez – Predoctoral researcher (sanchezjavierandre@gmail.com)
+ 
 	•	Javier Fernández Ortega – Predoctoral researcher (jfdezortega@correo.ugr.es)
+ 
 	•	Darío Bellón Fernández – Postdoctoral researcher (dariobellon@ugr.es)
+ 
 	•	Lucía Sánchez Aranda – Predoctoral researcher (sancheza.lucia@ugr.es)
+ 
 	•	Alessandro Sclafani – Predoctoral researcher (alessandro.sclafani0@gmail.com)
+ 
 	•	José David Marín Álvarez – Researcher (jdavidm@ugr.es)
+ 
 	•	Emilio José Barranco Moreno – Predoctoral researcher(jdavidm@ugr.es)
+ 
 	•	Manuel Gómez Río – Nuclear medicine specialist (manuel.gomez.rio.sspa@juntadeandalucia.es)
+ 
 	•	María Teresa Rodríguez Palacios – Researcher (e.mariateresarp@ms.ugr.es)
